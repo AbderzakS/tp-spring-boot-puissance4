@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: tp-springboot-SLIMANI
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Z
+Implementation-Vendor-Id: com.igs.ipi
+Build-Jdk: 1.8.0_131
+Implementation-URL: http://projects.spring.io/spring-boot/tp-springboo
+ t-SLIMANI/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+

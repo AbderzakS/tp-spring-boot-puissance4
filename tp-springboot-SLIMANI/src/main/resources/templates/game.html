@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title></title>
+</head>
+<body>
+	<p>Joueur 1 : {{jeu.nom1}}</p>
+	<p>Joueur 2 : {{jeu.nom2}}</p>
+
+	<table border="1">
+		<tbody>
+		{{#jeu.jetons}}
+			<tr>
+				{{#.}}
+					<td>{{.}}</td> 
+				{{/.}}
+			</tr>
+			{{/jeu.jetons}}
+		</tbody>
+	</table>
+</body>
+</html>
